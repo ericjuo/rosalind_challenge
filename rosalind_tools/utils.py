@@ -13,13 +13,12 @@ def parse_fasta(f):
         'name': '',
         'seq': ''
     }
-    # Initiate while loop
-    line = True
+
     # Set default first line is not the end of record
     end_of_record = False
-    while line:
+    for line in f.readlines():
         # Read line by line as while loop runs, and also strip off /n at the end of each line
-        line = f.readline().strip()
+        line = line.rstrip()
         if not line: # If line is empty, that is not False, skip this loop
             continue
 
