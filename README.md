@@ -1,2 +1,32 @@
 # rosalind_challenge
 My answer to the Rosalind problem.
+--- 
+-   Counting DNA Nucleotides:[[[Link](notebooks/counting_dna_nucleotides.ipynb)]
+-   Transcribing DNA into RNA: [[Link](notebooks/transcribing_dna_into_rna.ipynb)]
+-   Complementing a strand of DNA: [[Link](notebooks/complementing_a_strand_of_dna.ipynb)]
+-   Rabbits and Recurrence Relations: [[Link](notebooks/rabbits_and_recurrence_relations.ipynb)]
+-   Computing GC content: [[Link](notebooks/computing_gc_content.ipynb)]
+-   Counting point mutations: [[Link](notebooks/counting_point_mutation.ipynb)]
+-   Mendel's first law: [[Link](notebooks/medels_first_law.ipynb)]
+-   Translating RNA into Protein: [[Link](notebooks/translating_rna_into_protein.ipynb)]
+-   Finding a motif in DNA: [[Link](notebooks/finding_motif_in_dna.ipynb)]
+-   Consensus and profile: [[Link](notebooks/consensus_and_profile.ipynb)]
+-   Mortal fibonacci rabbits: [[Link](notebooks/mortal_fibonacci_rabbits.ipynb)]
+-   Overlap graphs: [[Link](notebooks/overlap_graphs.ipynb)]
+-   Calculating expected offspring: [[Link](notebooks/calculating_expected_offspring.ipynb)]
+-   Finding a shared motif: [[Link](notebooks/finding_a_shared_motif.ipynb)]
+-   Independent alleles: [[Link](notebooks/independent_alleles.ipynb)]
+-   Finding a protein motif: [[Link](notebooks/finding_a_protein_motif.ipynb)]
+-   Inferring mRNA from protein: [[Link](notebooks/inferring_mRNA_from_protein.ipynb)]
+-   Open reading frames: [[Link](notebooks/open_reading_frames.ipynb)]
+-   Enumerating gene orders: [[Link](notebooks/enumerating_gene_orders.ipynb)]
+-   Calculating protein mass: [[Link](notebooks/calculating_protein_mass.ipynb)]
+-   Locating restriction sites: [[Link](notebooks/locating_restriction_sites.ipynb)]
+-   RNA splicing: [[Link](notebooks/rna_splicing.ipynb)]
+-   Enumerating k-mers lexicographically: [[Link](notebooks/enumerating_k-mers_Lexicographically.ipynb)]
+-   Longest increasing subsequence: [[Link](notebooks/longest_increasing_subsequence.ipynb)]
+-   Genome assembly as shortest superstring: [[Link](notebooks/genome_assembly_as_shortest_superstring.ipynb)]
+-   Perfect matchings and RNA secondary structures: [[Link](notebooks/perfect_matchings_and_RNA_secondary_structures.ipynb)]
+-   Partial permutations: [[Link](notebooks/partial_permutations.ipynb)]
+
+
