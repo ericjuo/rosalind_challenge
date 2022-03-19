@@ -30,3 +30,4 @@ My answer to the Rosalind problem.
 -   Partial permutations: [[Link](notebooks/partial_permutations.ipynb)]
 - Introduction to random strings: [[Link](notebooks/introduction_to_random_strings.ipynb)]
 - Enumerating Oriented Gene Orderings: [[Link](notebooks/enumerating_oriented_gene_orderings.ipynb)]
+- Finding a spliced motif: [[Link](notebooks/finding_a_spliced_motif.ipynb)]
