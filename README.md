@@ -29,4 +29,4 @@ My answer to the Rosalind problem.
 -   Perfect matchings and RNA secondary structures: [[Link](notebooks/perfect_matchings_and_RNA_secondary_structures.ipynb)]
 -   Partial permutations: [[Link](notebooks/partial_permutations.ipynb)]
 - Introduction to random strings: [[Link](notebooks/introduction_to_random_strings.ipynb)]
-
+- Enumerating Oriented Gene Orderings: [[Link](notebooks/enumerating_oriented_gene_orderings.ipynb)]
